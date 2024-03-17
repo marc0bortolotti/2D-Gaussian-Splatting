@@ -1,3 +1,7 @@
+"""
+Plot the number of samples over epochs
+"""
+
 from matplotlib import pyplot as plt
 import numpy as np
 
