@@ -1,0 +1,68 @@
+OPTIMIZATION PARAMETERS
+Kernel Size: 60
+Image Size: [128, 128, 3]
+Primary Samples: 200
+Backup Samples: 4000
+Number of Epochs: 1000
+Densification Interval: 20
+Learning Rate: 0.01
+Image File Name: images/Image-02.png
+Display Interval: 20
+Gradient Threshold: 0.002
+Gaussian Threshold: 0.002
+
+STATISTICS:
+Number of splitted points: 120
+Number of splitted points: 35
+Number of splitted points: 27
+Number of splitted points: 23
+Number of splitted points: 32
+Number of splitted points: 46
+Number of splitted points: 49
+Number of splitted points: 46
+Number of splitted points: 54
+Number of splitted points: 55
+Number of splitted points: 54
+Number of splitted points: 53
+Number of splitted points: 54
+Number of splitted points: 55
+Number of splitted points: 58
+Number of splitted points: 61
+Number of splitted points: 56
+Number of splitted points: 53
+Number of splitted points: 58
+Number of splitted points: 62
+Number of splitted points: 51
+Number of splitted points: 70
+Number of splitted points: 64
+Number of splitted points: 55
+Number of splitted points: 47
+Number of splitted points: 58
+Number of splitted points: 56
+Number of splitted points: 59
+Number of splitted points: 67
+Number of splitted points: 64
+Number of splitted points: 62
+Number of splitted points: 48
+Number of splitted points: 69
+Number of splitted points: 60
+Number of splitted points: 72
+Number of splitted points: 60
+number of pruned points: 1
+Number of splitted points: 66
+Number of splitted points: 70
+Number of splitted points: 59
+Number of splitted points: 61
+number of pruned points: 2
+Number of splitted points: 50
+Number of splitted points: 56
+Number of splitted points: 54
+Number of splitted points: 71
+Number of splitted points: 53
+Number of splitted points: 57
+Number of splitted points: 55
+Number of splitted points: 53
+number of pruned points: 2
+Number of splitted points: 58
+
+Loss: 0.0023865660186856985

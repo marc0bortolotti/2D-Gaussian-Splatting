@@ -1,0 +1,10 @@
+Number of splitted points: 293
+Number of splitted points: 213
+Number of splitted points: 155
+Number of splitted points: 143
+Number of splitted points: 132
+Number of splitted points: 150
+Number of splitted points: 130
+Number of splitted points: 138
+Number of splitted points: 129
+number of pruned points: 1

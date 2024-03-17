@@ -1,0 +1,25 @@
+OPTIMIZATION PARAMETERS
+Kernel Size: 60
+Image Size: [80, 80, 3]
+Primary Samples: 200
+Backup Samples: 4000
+Number of Epochs: 1000
+Densification Interval: 100
+Learning Rate: 0.01
+Image File Name: images/Image-02.png
+Display Interval: 20
+Gradient Threshold: 0.002
+Gaussian Threshold: 0.002
+
+STATISTICS:
+Number of splitted points: 28
+Number of splitted points: 44
+Number of splitted points: 46
+Number of splitted points: 40
+Number of splitted points: 53
+Number of splitted points: 42
+Number of splitted points: 52
+Number of splitted points: 48
+Number of splitted points: 47
+
+Loss: 0.0026058261282742023

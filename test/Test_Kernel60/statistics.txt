@@ -1,0 +1,15 @@
+Number of splitted points: 52
+Number of splitted points: 56
+Number of splitted points: 38
+Number of splitted points: 55
+Number of splitted points: 44
+Number of splitted points: 40
+number of pruned points: 2
+Number of splitted points: 38
+number of pruned points: 1
+Number of splitted points: 45
+number of pruned points: 10
+Number of splitted points: 52
+number of pruned points: 49
+
+Loss: 0.001890285057015717
