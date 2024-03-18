@@ -1,0 +1,13 @@
+                    folder num_splitted num_pruned      loss
+0             Test_Dense20         2776          5  0.002387
+1       Test_gradientTH001           42          0  0.002420
+2        Test_gradientTH01            0          0  0.003280
+3             Test_image01         1034          0  0.026875
+4             Test_image04         2013          0  0.016367
+5            Test_Kernel10         1483          1  0.016367
+6            Test_Kernel40          570          0  0.001892
+7            Test_Kernel60          420         62  0.001890
+8              Test_LR0001          130          0  0.041668
+9                Test_LR01           89          0  0.041668
+10  Test_primarySamples500          400          0  0.002606
+11            Test_Size254          736          0  0.001727
